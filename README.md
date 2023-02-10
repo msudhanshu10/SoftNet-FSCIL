@@ -1,6 +1,6 @@
-# SoftNet-FSCIL
+# [SoftNet-FSCIL](https://openreview.net/forum?id=z57WK5lGeHd)
 
-# [3D Loss Landscapes](https://github.com/ihaeyong/SoftNet-3DLS) of [SoftNet](https://openreview.net/forum?id=z57WK5lGeHd)
+### [3D Loss Landscapes](https://github.com/ihaeyong/SoftNet-3DLS)
 
 ```
 @article{Kang2022OnTS,
