@@ -26,3 +26,5 @@ year={2023},
 url={https://openreview.net/forum?id=z57WK5lGeHd}
 }
 ```
+
+### [3D Loss Landscapes of DenseNet, HardNet, and SoftNet](github.com/ihaeyong/SoftNet-FSCIL/plots/loss_func_surface_3D_epoch100.pdf)
