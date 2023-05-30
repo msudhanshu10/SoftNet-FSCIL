@@ -27,4 +27,4 @@ url={https://openreview.net/forum?id=z57WK5lGeHd}
 }
 ```
 
-![DenseNet, HardNet, and SoftNet](github.com/ihaeyong/SoftNet-FSCIL/plots/3d_loss)
+![DenseNet, HardNet, and SoftNet](https://github.com/ihaeyong/SoftNet-FSCIL/blob/main/plots/3d_loss.PNG)
